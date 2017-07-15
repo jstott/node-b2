@@ -17,7 +17,8 @@
   "dependencies": {
     "request": "latest",
     "sha1-file": "latest",
-    "async": "latest"
+    "async": "latest",
+    "underscore": "latest"
   },
   "repository": {
     "type": "git",
